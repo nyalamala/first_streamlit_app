@@ -2,11 +2,7 @@
 
 
 snowflake-connector-python==2.7.9
-altair
-pandas
-streamlit
-snowflake
-charset-normalizer==2.0.12
+
 
  
 
